@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/theme-clock-app.git
+git clone https://github.com/josue8080/theme-clock.git
 Navigate into the project directory:
 
 bash
