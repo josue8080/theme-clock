@@ -1,6 +1,6 @@
 # theme-clock
 This project is a simple interactive clock application that displays the current time in a visually appealing format with different themes.
-___
+____
 
 
 Features
