@@ -1,6 +1,7 @@
 # theme-clock
 This project is a simple interactive clock application that displays the current time in a visually appealing format with different themes.
-__
+___
+
 
 Features
 Dynamic Time Display: Shows the current time with hours, minutes, and seconds.
